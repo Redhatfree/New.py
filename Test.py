@@ -13,3 +13,5 @@ df.fillna(df.mean(numeric_only=True), inplace=True)
 print("DataFrame After Replacing Null Values with Mean:")
 print(df.isnull().sum())
 print(df.head())
+
+print('HI REOUZBEH')
